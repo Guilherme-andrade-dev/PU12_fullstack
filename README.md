@@ -1,7 +1,12 @@
 # E-commerce Vue.js & TypeScript
-  
-  
+
+Este projeto é uma atividade prática de e-commerce utilizando Vue 3, TypeScript e Options API, com componentização e lógica de carrinho separada em uma classe Cart.
+
+## Funcionalidades
 - Listagem de produtos
+- Adição de produtos ao carrinho
+- Remoção de unidades ou itens inteiros do carrinho
+- Resumo dinâmico do carrinho (total de itens e valor)
 - Código totalmente tipado em TypeScript
 - Componentização (ProductCard)
 - Lógica de negócio separada na model Cart
