@@ -37,9 +37,3 @@ src/
 - O componente `ProductCard` é reutilizável e recebe o produto via prop.
 
 ---
-
-Atividade prática para entrega no Google Sala de Aula.
-
----
-
-Se tiver dúvidas, consulte o professor ou abra uma issue!
